@@ -1,0 +1,10 @@
+[package]
+authors = ["Corentin Henry <corentinhenry@gmail.com>"]
+name = "ipaddr"
+version = "0.0.3"
+homepage = "https://github.com/little-dude/ipaddr"
+keywords = ["ip", "ipv6", "ipv4"]
+license-file = "LICENSE-MIT"
+readme = "README.md"
+repository = "https://github.com/little-dude/ipaddr"
+description = "manipulate IPv4 and IPv6 addresses"
